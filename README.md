@@ -15,5 +15,4 @@
   <a href="https://github.com/LeeSangMin96/music_classification/tree/master/train">[TRAIN]</a>
   <a href="https://github.com/LeeSangMin96/music_classification/tree/master/test">[TEST]</a>
 </li>
-<li> {blues, classical, country, disco, hiphop, jazz, metal, pop, reggae, rock} : {0,1,2,3,4,5,6,7,8,9} 
-  </br> 으로 라벨링</li>
+<li> {blues, classical, country, disco, hiphop, jazz, metal, pop, reggae, rock} : {0,1,2,3,4,5,6,7,8,9} 으로 라벨링</li>
