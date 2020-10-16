@@ -11,3 +11,4 @@
 ### Data Preprocessing
 <li> 제공된 원본 데이터는 Mel Spectrograms을 사용하여 오디오를 시각화.</li>
 <li> 실제 프로젝트에서는 MFCC를 사용하여 오디오를 시각화</li>
+<li> train/test data를 8:2 비율로 나누기</li>
